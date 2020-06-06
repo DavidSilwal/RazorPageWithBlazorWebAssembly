@@ -64,3 +64,4 @@ Steps to create:
 1. `dotnet run`
 1. Browse to https://localhost:5001
 
+    ![image](https://user-images.githubusercontent.com/1874516/83955966-776e9b00-a80d-11ea-9b8b-221d65375c6d.png)
